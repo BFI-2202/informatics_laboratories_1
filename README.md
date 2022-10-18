@@ -17,6 +17,7 @@
 С использованием пакетного менеджера `poetry`:
 
 ```bash
+poetry install
 poetry run meteoinformation
 ```
 
